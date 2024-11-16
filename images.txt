@@ -1,1 +1,1 @@
-nfs-subdir-provisioner:v4.0.2
+nfs-subdir-external-provisioner:v4.0.2
