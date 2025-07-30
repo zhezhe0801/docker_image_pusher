@@ -1,2 +1,1 @@
-mongo:latest
-redis:alpine
+ubuntu:22.04
